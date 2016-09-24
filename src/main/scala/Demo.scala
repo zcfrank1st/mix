@@ -1,0 +1,1 @@
+case class Demo(name: String, age: Int)
